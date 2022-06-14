@@ -1,0 +1,450 @@
+[
+    {
+        "id" : 1,
+        "img" : {
+            "src" : "assets/img/galerija/1.jpg",
+            "alt" : "Gotham twist-GT72",
+            "href" : "assets/img/galerija/1.jpg"
+        }
+    },
+    {
+        "id" : 2,
+        "img" : {
+            "src" : "assets/img/galerija/2.jpg",
+            "alt" : "Galerija 2",
+            "href" : "assets/img/galerija/2.jpg"
+        }
+    },
+    {
+        "id" : 3,
+        "img" : {
+            "src" : "assets/img/galerija/3.jpg",
+            "alt" : "Galerija 3",
+            "href" : "assets/img/galerija/3.jpg"
+        }
+    },
+    {
+        "id" : 4,
+        "img" : {
+            "src" : "assets/img/galerija/4.jpg",
+            "alt" : "Galerija 4",
+            "href" : "assets/img/galerija/4.jpg"
+        }
+    },
+    {
+        "id" : 5,
+        "img" : {
+            "src" : "assets/img/galerija/5.jpg",
+            "alt" : "Galerija 5",
+            "href" : "assets/img/galerija/5.jpg"
+        }
+    },
+    {
+        "id" : 6,
+        "img" : {
+            "src" : "assets/img/galerija/6.jpg",
+            "alt" : "Galerija 6",
+            "href" : "assets/img/galerija/6.jpg"
+        }
+    },
+    {
+        "id" : 7,
+        "img" : {
+            "src" : "assets/img/galerija/7.jpg",
+            "alt" : "Galerija 7",
+            "href" : "assets/img/galerija/7.jpg"
+        }
+    },
+    {
+        "id" : 8,
+        "img" : {
+            "src" : "assets/img/galerija/8.jpg",
+            "alt" : "Galerija 8",
+            "href" : "assets/img/galerija/8.jpg"
+        }
+    },
+    {
+        "id" : 9,
+        "img" : {
+            "src" : "assets/img/galerija/9.jpg",
+            "alt" : "Galerija 9",
+            "href" : "assets/img/galerija/9.jpg"
+        }
+    },
+    {
+        "id" : 10,
+        "img" : {
+            "src" : "assets/img/galerija/10.jpg",
+            "alt" : "Galerija 10",
+            "href" : "assets/img/galerija/10.jpg"
+        }
+    },
+    {
+        "id" : 11,
+        "img" : {
+            "src" : "assets/img/galerija/11.jpg",
+            "alt" : "Galerija 11",
+            "href" : "assets/img/galerija/11.jpg"
+        }
+    },
+    {
+        "id" : 12,
+        "img" : {
+            "src" : "assets/img/galerija/12.jpg",
+            "alt" : "Galerija 12",
+            "href" : "assets/img/galerija/12.jpg"
+        }
+    },
+    {
+        "id" : 13,
+        "img" : {
+            "src" : "assets/img/galerija/13.jpg",
+            "alt" : "Galerija 13",
+            "href" : "assets/img/galerija/13.jpg"
+        }
+    },
+    {
+        "id" : 14,
+        "img" : {
+            "src" : "assets/img/galerija/14.jpg",
+            "alt" : "Galerija 14",
+            "href" : "assets/img/galerija/14.jpg"
+        }
+    },
+    {
+        "id" : 15,
+        "img" : {
+            "src" : "assets/img/galerija/15.jpg",
+            "alt" : "Galerija 15",
+            "href" : "assets/img/galerija/15.jpg"
+        }
+    },
+    {
+        "id" : 16,
+        "img" : {
+            "src" : "assets/img/galerija/16.jpg",
+            "alt" : "Galerija 16",
+            "href" : "assets/img/galerija/16.jpg"
+        }
+    },
+    {
+        "id" : 17,
+        "img" : {
+            "src" : "assets/img/galerija/17.jpg",
+            "alt" : "Galerija 17",
+            "href" : "assets/img/galerija/17.jpg"
+        }
+    },
+    {
+        "id" : 18,
+        "img" : {
+            "src" : "assets/img/galerija/18.jpg",
+            "alt" : "Galerija 18",
+            "href" : "assets/img/galerija/18.jpg"
+        }
+    },
+    {
+        "id" : 19,
+        "img" : {
+            "src" : "assets/img/galerija/19.jpg",
+            "alt" : "Galerija 19",
+            "href" : "assets/img/galerija/19.jpg"
+        }
+    },
+    {
+        "id" : 20,
+        "img" : {
+            "src" : "assets/img/galerija/20.jpg",
+            "alt" : "Galerija 20",
+            "href" : "assets/img/galerija/20.jpg"
+        }
+    },
+    {
+        "id" : 21,
+        "img" : {
+            "src" : "assets/img/galerija/21.jpg",
+            "alt" : "Galerija 21",
+            "href" : "assets/img/galerija/21.jpg"
+        }
+    },
+    {
+        "id" : 22,
+        "img" : {
+            "src" : "assets/img/galerija/22.jpg",
+            "alt" : "Galerija 22",
+            "href" : "assets/img/galerija/22.jpg"
+        }
+    },
+    {
+        "id" : 23,
+        "img" : {
+            "src" : "assets/img/galerija/23.jpg",
+            "alt" : "Galerija 23",
+            "href" : "assets/img/galerija/23.jpg"
+        }
+    },
+    {
+        "id" : 24,
+        "img" : {
+            "src" : "assets/img/galerija/24.jpg",
+            "alt" : "Galerija 24",
+            "href" : "assets/img/galerija/24.jpg"
+        }
+    },
+    {
+        "id" : 25,
+        "img" : {
+            "src" : "assets/img/galerija/25.jpg",
+            "alt" : "Galerija 25",
+            "href" : "assets/img/galerija/25.jpg"
+        }
+    },
+    {
+        "id" : 26,
+        "img" : {
+            "src" : "assets/img/galerija/26.jpg",
+            "alt" : "Galerija 26",
+            "href" : "assets/img/galerija/26.jpg"
+        }
+    },
+    {
+        "id" : 27,
+        "img" : {
+            "src" : "assets/img/galerija/27.jpg",
+            "alt" : "Galerija 27",
+            "href" : "assets/img/galerija/27.jpg"
+        }
+    },
+    {
+        "id" : 28,
+        "img" : {
+            "src" : "assets/img/galerija/28.jpg",
+            "alt" : "Galerija 28",
+            "href" : "assets/img/galerija/28.jpg"
+        }
+    },
+    {
+        "id" : 29,
+        "img" : {
+            "src" : "assets/img/galerija/29.jpg",
+            "alt" : "Galerija 29",
+            "href" : "assets/img/galerija/29.jpg"
+        }
+    },
+    {
+        "id" : 30,
+        "img" : {
+            "src" : "assets/img/galerija/30.jpg",
+            "alt" : "Galerija 30",
+            "href" : "assets/img/galerija/30.jpg"
+        }
+    },
+    {
+        "id" : 31,
+        "img" : {
+            "src" : "assets/img/galerija/31.jpg",
+            "alt" : "Galerija 31",
+            "href" : "assets/img/galerija/31.jpg"
+        }
+    },
+    {
+        "id" : 32,
+        "img" : {
+            "src" : "assets/img/galerija/32.jpg",
+            "alt" : "Galerija 32",
+            "href" : "assets/img/galerija/32.jpg"
+        }
+    },
+    {
+        "id" : 33,
+        "img" : {
+            "src" : "assets/img/galerija/33.jpg",
+            "alt" : "Galerija 33",
+            "href" : "assets/img/galerija/33.jpg"
+        }
+    },
+    {
+        "id" : 34,
+        "img" : {
+            "src" : "assets/img/galerija/34.jpg",
+            "alt" : "Galerija 34",
+            "href" : "assets/img/galerija/34.jpg"
+        }
+    },
+    {
+        "id" : 35,
+        "img" : {
+            "src" : "assets/img/galerija/35.jpg",
+            "alt" : "Galerija 35",
+            "href" : "assets/img/galerija/35.jpg"
+        }
+    },
+    {
+        "id" : 36,
+        "img" : {
+            "src" : "assets/img/galerija/36.jpg",
+            "alt" : "Galerija 36",
+            "href" : "assets/img/galerija/36.jpg"
+        }
+    },
+    {
+        "id" : 37,
+        "img" : {
+            "src" : "assets/img/galerija/37.jpg",
+            "alt" : "Galerija 37",
+            "href" : "assets/img/galerija/37.jpg"
+        }
+    },
+    {
+        "id" : 38,
+        "img" : {
+            "src" : "assets/img/galerija/38.jpg",
+            "alt" : "Galerija 38",
+            "href" : "assets/img/galerija/38.jpg"
+        }
+    },
+    {
+        "id" : 39,
+        "img" : {
+            "src" : "assets/img/galerija/39.jpg",
+            "alt" : "Galerija 39",
+            "href" : "assets/img/galerija/39.jpg"
+        }
+    },
+    {
+        "id" : 40,
+        "img" : {
+            "src" : "assets/img/galerija/40.jpg",
+            "alt" : "Galerija 40",
+            "href" : "assets/img/galerija/40.jpg"
+        }
+    },
+    {
+        "id" : 41,
+        "img" : {
+            "src" : "assets/img/galerija/41.jpg",
+            "alt" : "Galerija 41",
+            "href" : "assets/img/galerija/41.jpg"
+        }
+    },
+    {
+        "id" : 42,
+        "img" : {
+            "src" : "assets/img/galerija/42.jpg",
+            "alt" : "Galerija 42",
+            "href" : "assets/img/galerija/42.jpg"
+        }
+    },
+    {
+        "id" : 43,
+        "img" : {
+            "src" : "assets/img/galerija/43.jpg",
+            "alt" : "Galerija 43",
+            "href" : "assets/img/galerija/43.jpg"
+        }
+    },
+    {
+        "id" : 44,
+        "img" : {
+            "src" : "assets/img/galerija/44.jpg",
+            "alt" : "Galerija 44",
+            "href" : "assets/img/galerija/44.jpg"
+        }
+    },
+    {
+        "id" : 45,
+        "img" : {
+            "src" : "assets/img/galerija/45.jpg",
+            "alt" : "Galerija 45",
+            "href" : "assets/img/galerija/45.jpg"
+        }
+    },
+    {
+        "id" : 46,
+        "img" : {
+            "src" : "assets/img/galerija/46.jpg",
+            "alt" : "Galerija 46",
+            "href" : "assets/img/galerija/46.jpg"
+        }
+    },
+    {
+        "id" : 47,
+        "img" : {
+            "src" : "assets/img/galerija/47.jpg",
+            "alt" : "Galerija 47",
+            "href" : "assets/img/galerija/47.jpg"
+        }
+    },
+    {
+        "id" : 48,
+        "img" : {
+            "src" : "assets/img/galerija/48.jpg",
+            "alt" : "Galerija 48",
+            "href" : "assets/img/galerija/48.jpg"
+        }
+    },
+    {
+        "id" : 49,
+        "img" : {
+            "src" : "assets/img/galerija/49.jpg",
+            "alt" : "Galerija 49",
+            "href" : "assets/img/galerija/49.jpg"
+        }
+    },
+    {
+        "id" : 50,
+        "img" : {
+            "src" : "assets/img/galerija/50.jpg",
+            "alt" : "Galerija 50",
+            "href" : "assets/img/galerija/50.jpg"
+        }
+    },
+    {
+        "id" : 51,
+        "img" : {
+            "src" : "assets/img/galerija/51.jpg",
+            "alt" : "Galerija 51",
+            "href" : "assets/img/galerija/51.jpg"
+        }
+    },
+    {
+        "id" : 52,
+        "img" : {
+            "src" : "assets/img/galerija/52.jpg",
+            "alt" : "Galerija 52",
+            "href" : "assets/img/galerija/52.jpg"
+        }
+    },
+    {
+        "id" : 53,
+        "img" : {
+            "src" : "assets/img/galerija/53.jpg",
+            "alt" : "Galerija 53",
+            "href" : "assets/img/galerija/53.jpg"
+        }
+    },
+    {
+        "id" : 54,
+        "img" : {
+            "src" : "assets/img/galerija/54.jpg",
+            "alt" : "Galerija 54",
+            "href" : "assets/img/galerija/54.jpg"
+        }
+    },
+    {
+        "id" : 55,
+        "img" : {
+            "src" : "assets/img/galerija/55.jpg",
+            "alt" : "Galerija 55",
+            "href" : "assets/img/galerija/55.jpg"
+        }
+    },
+    {
+        "id" : 56,
+        "img" : {
+            "src" : "assets/img/galerija/56.jpg",
+            "alt" : "Galerija 56",
+            "href" : "assets/img/galerija/56.jpg"
+        }
+    }
+]

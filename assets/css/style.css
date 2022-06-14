@@ -1,0 +1,378 @@
+a {
+    color: #000;
+    text-decoration: none;
+}
+ul li {
+    list-style-type: none;
+    padding-left: 0px;
+}
+/* INDEX PAGE */
+.banner-img {
+    width: 85%;
+    opacity: 80%;
+    height: inherit;
+    margin: 0px auto;
+}
+#menu {
+    flex-wrap: wrap;
+}
+.menu-nav {
+    margin-top: 25px;
+    z-index: 2;
+    background-color: #ffebf2;
+}
+.menu-element {
+    padding-top: 18px;
+    padding-bottom: 20px;
+}
+.menu-link {
+    padding-left: 20px;
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+.menu-link:hover {
+    color: #f650a0;
+}
+.logo-images {
+    margin: 10px 0px 10px 0px;
+    width: 70px;
+}
+.logo-font {
+    padding-left: 70px;
+}
+#menu {
+    margin-top: 13px;
+}
+.cart-element {
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+.cart-link .fas .fa-shopping-cart:hover {
+    color: #f650a0;
+}
+.cart-number {
+    color: #f650a0;
+    font-weight: bolder;
+}
+.home-wrapper {
+    margin: 0px auto;
+}
+.welcome-text {
+    font-size: 25px;
+    font-family: 'Dancing Script', cursive;
+}
+.info-text {
+    font-size: 25px;
+    font-family: 'Dancing Script', cursive;
+}
+.radius-1 {
+    border-radius: 50px 0px 0px 0px;
+}
+.radius-3 {
+    border-radius: 0px 0px 50px 0px;
+}
+.radius-2 {
+    border-radius: 0px 50px 0px 0px;
+}
+.radius-4 {
+    border-radius: 0px 0px 0px 50px;
+}
+.contact-wrapper {
+    margin: 0px auto;
+    padding-top: 60px;
+}
+.last-name {
+    margin-top: 20px;
+}
+.email {
+    margin-top: 20px;
+}
+.message {
+    margin-top: 20px;
+}
+.button-send {
+    margin-top: 20px;
+    background-color: #ffebf2;
+    width: 100%;
+    color: #000;
+    border: 0;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+#successForm{
+    font-size: 25px;
+    color: #319966;
+    display: none;
+}
+.tm-contact-link {
+    color: #626364;
+    text-decoration: none;
+}
+.tm-contact-icon {
+    color: #319966;
+    margin-right: 25px;
+    margin-top: 15px;
+}
+.spec-icon {
+    background-color: #EAEAEA;
+    margin-top: 70px;
+}
+.free {
+    padding-top: 17px;
+}
+.spec-info {
+    color: #626364;
+}
+.spec-icon img {
+    margin-top: 15px;
+}
+.row .column1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-right: 1px solid #f650a0;
+    padding: 10px;
+}
+.row .column1-1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+.fab {
+    color: #f650a0;
+    font-size: 35px
+}
+.fas {
+    color: #f650a0;
+    font-size: 35px
+}
+.far {
+    color: #f650a0;
+    font-size: 35px
+}
+.end-footer {
+    background-color: #ffebf2;
+}
+.copyright {
+    padding: 15px;
+    color: #000;
+    font-family: 'Dancing Script', cursive;
+}
+/* SHOP */
+.filter-lists {
+    display: grid;
+}
+.all-product-wrapper {
+    flex-wrap: wrap;
+}
+.product-wrapper {
+    margin-right: 1px;
+}
+.product-name {
+    color: #626364;
+    font-size: 26px;
+    margin-bottom: 0px;
+    font-family: 'Dancing Script', cursive;
+}
+.description-cakes {
+    font-size:16px ;
+    color: #626364;
+    padding-left: 0px;
+    text-align: justify;
+}
+.view-description {
+    color: #626364;
+    border: none;
+    background-color: #fff;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    padding-left: 0px;
+}
+.price-wrapper {
+    color: #626364;
+    font-size: 22px;
+    font-family: 'Dancing Script', cursive;
+}
+.product-shipping-status {
+    color: #4da60d;
+    font-weight: bold;
+}
+.product-not-shipping-not-status  {
+    color: #d40015;
+    font-weight: bold;
+}
+.button-wrapper input {
+    color: #626364;
+    padding-left: 0px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+.cakery-price {
+    font-size: 18px;
+    color: #626364;
+}
+/* CART */
+.shopping-cart {
+    margin-top: 70px;
+}
+.product-cart-wrapper {
+    margin: 0px auto;
+    border: 1px solid #626364;
+}
+.delete-product {
+    margin: 50px 0px 0px 41px;
+}
+.cart-img {
+    width: 200px;
+    padding: 15px;
+}
+.cart-product-name {
+    text-align: start;
+    padding-top: 55px;
+    font-size: 20px;
+    color: #626364;
+}
+.quantity-title {
+    padding-top: 15px;
+}
+.total-product-price {
+    font-weight: bold;
+    color: #626364;
+}
+.remove-or-order {
+    margin: 0px auto;
+}
+.total-text {
+    color: #626364;
+    font-size: 20px;
+}
+.total-cart-price {
+    font-weight: bolder;
+}
+.empty-cart {
+    margin: 0px auto;
+}
+.danger-info {
+    margin-bottom: 0px;
+}
+.success-shopping {
+    margin: 0px auto;
+}
+.success-info {
+    margin-bottom:0px;
+}
+#order {
+    background-color: #319966;
+    border-color: #319966;
+}
+.about-gallery-wrapper {
+    flex-wrap: wrap;
+}
+.about-wrapper {
+    margin: 0px auto;
+}
+.about-images {
+    width: 320px;
+}
+
+.about-text{
+    font-size: 25px;
+    font-family: 'Dancing Script', cursive;
+}
+.second-paragraph {
+    color: #f650a0;
+}
+.fifth-paragraph {
+    color: #f650a0;
+}
+.sixth-paragraph {
+    color: #f650a0;
+}
+.black-bold{
+    color: #000;
+}
+.label-text {
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+.single-img {
+    width: 100%;
+    height: 459px;
+}
+
+
+/* RESPONSIVE */
+@media only screen and(max-width: 350px){
+    .delete-product {
+        margin: 20px 0px 0px 10px;
+    }
+    .menu-link {
+        padding-left: 5px;
+    }
+    .about-wrapper {
+        padding-left: 0px;
+    }
+    .banner-img {
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 992px){
+    .partners-img {
+        flex-wrap: wrap;
+    }
+    .contact-wrapper {
+        flex-wrap: wrap;
+    }
+    .maps {
+        margin-top: 20px;
+    }
+    iframe {
+        width: 100%;
+    }
+    .spec-icon-info {
+        flex-wrap: wrap;
+    }
+    .author-wrapper {
+        flex-wrap: wrap;
+    }
+    .ss-wrapper {
+        flex-wrap: wrap;
+    }
+    .product-wrapper{
+        margin-right: 0px;
+    }
+    .products-img{
+        margin: 0px auto;
+    }
+    .welcome-title {
+        text-align: center;
+        color: #fff;
+        font-size: 25px;
+        padding-top: 15px;
+    }
+    .product-cart-wrapper {
+        flex-wrap: wrap;
+    }
+    .delete-product {
+        margin: 50px 0px 0px 10px;
+    }
+    .banner-img {
+        width: 100%;
+    }
+}
+@media only screen and(max-width: 768px){
+    .row .column1 {
+        border-right: none;
+    }
+    .row .column1-1 {
+        border-right: none;
+    }
+    .banner-img {
+        width: 100%;
+    }
+}
+
+
+

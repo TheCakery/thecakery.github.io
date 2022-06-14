@@ -1,0 +1,43 @@
+[
+    {
+        "id" : 1,
+        "name" : "Početna",
+        "href" : "index.html"
+    },
+    {
+        "id" : 2,
+        "name" : "Shop",
+        "href" : "shop.html"
+    },
+    {
+        "id" : 3,
+        "name" : "Kolači",
+        "href" : "kolaci.html"
+    },
+    {
+        "id" : 4,
+        "name" : "Torte",
+        "href" : "torte.html"
+    },
+    {
+        "id" : 5,
+        "name" : "Krofne",
+        "href" : "krofne.html"
+    },
+    {
+        "id" : 6,
+        "name" : "Kontakt",
+        "href" : "contact.html"
+    },
+    {
+        "id" : 7,
+        "name" : "O nama",
+        "href" : "o-nama.html"
+    }
+    ,
+    {
+        "id" : 8,
+        "name" : "Galerija",
+        "href" : "galerija.html"
+    }
+]

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <item>
+            <title> Novi slatkisi</title>
+            <link>link</link>
+            <description>Novi slatkisi su stigli u Cakery poslasticarnicu.</description>
+        </item>
+        
+        <item>
+            <title> Uskoro!</title>
+            <link>link</link>
+            <description>Uskoro, The Cakery, otvara novu poslasticarnicu na novoj lokaciji.</description>
+        </item>
+        
+    </channel>
+</rss>

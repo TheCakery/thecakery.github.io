@@ -1,0 +1,338 @@
+[
+    {
+        "id" : 1,
+        "name" : "Pandora",
+        "catID" : [1],
+        "img" : {
+            "src" : "assets/img/kolaci/kolac1.jpg",
+            "alt" : "Pandora"
+        },
+        "price" : 450,
+        "description" : {
+            "opis" : "Hrskavi tart sa bademima, čokoladni genaž sa marakujom, vanilom, tonkom, džem od kajsije i marakuje.",
+            "alergeni" : "gluten, badem, laktoza, soja lecitin, zelatin, jaja.",
+            "porcije" : "za 1 osobu",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 2,
+        "name" : "Gotham twist",
+        "catID" : [1],
+        "img" : {
+            "src" : "assets/img/kolaci/kolac2.jpg",
+            "alt" : "Gotham twist"
+        },
+        "price" : 450,
+        "description" : {
+            "opis" : "Slatka, mala, izvrnuta torta za kojom tragate od detinjstva. Ne bi joj odoleli ni Ser Žile ni aždaja. Penušavi mus od  crne čokolade( 70% kakaa, naravno?), hrskavi lešnici i bademi.",
+            "alergeni" : "orašasti plodovi, jaja, gluten, mleko.",
+            "porcije" : "za 1 osobu",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 3,
+        "name" : "Stella del Mandarino",
+        "catID" : [1],
+        "img" : {
+            "src" : "assets/img/kolaci/kolac3.jpg",
+            "alt" : "Stella del Mandarino"
+        },
+        "price" : 450,
+        "description" : {
+            "opis" : "Mus od kokosa sa insertom od komadića svežeg manga, kremuom od mango pirea i marakuje i mekanom korom od vanila paste i lešnika.",
+            "alergeni" : "lešnik, gluten, med, laktoza, kokos, želatin, jaja.",
+            "porcije" : "za 1 osobu",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 4,
+        "name" : "Mango cheesecake",
+        "catID" : [1],
+        "img" : {
+            "src" : "assets/img/kolaci/kolac4.jpg",
+            "alt" : "Mango cheesecake"
+        },
+        "price" : 430,
+        "description" : {
+            "opis" : "Hrskava kora sa pralinom od badema, osvežajući mus od maskarpone-a i jogurta sa insertom od crvenog voća.",
+            "alergeni" : "gluten, laktoza, badem, soja lecitin, jagoda, malina, med, zelatin, jaja.",
+            "porcije" : "za 1 osobu",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 5,
+        "name" : "Kan",
+        "catID" : [1],
+        "img" : {
+            "src" : "assets/img/kolaci/kolac5.jpg",
+            "alt" : "Kan"
+        },
+        "price" : 390,
+        "description" : {
+            "opis" : "Mus od crne čokolade sa domaćim džemom od malina, korica čokoladni brownie.",
+            "alergeni" : "jaja, želatin, laktoza, bobičasto voće.",
+            "porcije" : "za 1 osobu",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 6,
+        "name" : "Fraiser",
+        "catID" : [1],
+        "img" : {
+            "src" : "assets/img/kolaci/kolac6.jpg",
+            "alt" : "Fraiser"
+        },
+        "price" : 300,
+        "description" : {
+            "opis" : "Meka kora sa džemom od jagoda i vanila kremom.",
+            "alergeni" : "gluten, laktoza, soja lecitin, jagode, zelatin, jaja.",
+            "porcije" : "za 1 osobu",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 7,
+        "name" : "Samba",
+        "catID" : [1],
+        "img" : {
+            "src" : "assets/img/kolaci/kolac7.jpg",
+            "alt" : "Samba"
+        },
+        "price" : 430,
+        "description" : {
+            "opis" : "Kora od limuna i jogurta sa bademima, osvežavajuci krem od citrusa i bele čokolade, vanila krem sa limun crunch-em i limun namelakom.",
+            "alergeni" : "badem, gluten, laktoza, soja lecitin, zelatin, jaja.",
+            "porcije" : "za 1 osobu",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 8,
+        "name" : "Gotham twist-GT76",
+        "catID" : [2],
+        "img" : {
+            "src" : "assets/img/torte/torta1.jpg",
+            "alt" : "Gotham twist-GT76"
+        },
+        "price" : 3630,
+        "description" : {
+            "opis" : "Mus od crne Callebaut čokolade sa 70% kakaoa, mlečna čokolada sa pečenim lešnikom i hrskavim biskvitom, mekana kora od badema.",
+            "alergeni" : "orašasti plodovi, jaja, gluten, laktoza.",
+            "porcije" : "5-9 parčića",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 9,
+        "name" : "Gotham twist-GT74",
+        "catID" : [2],
+        "img" : {
+            "src" : "assets/img/torte/torta2.jpg",
+            "alt" : "Gotham twist-GT74"
+        },
+        "price" : 3630,
+        "description" : {
+            "opis" : "Mus od crne Callebaut čokolade sa 70% kakaoa, mlečna čokolada sa pečenim lešnikom i hrskavim biskvitom, mekana kora od badema.",
+            "alergeni" : "orašasti plodovi, jaja, gluten, laktoza.",
+            "porcije" : "5-9 parčića",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 10,
+        "name" : "Stella del Mandarina-ST83",
+        "catID" : [2],
+        "img" : {
+            "src" : "assets/img/torte/torta3.jpg",
+            "alt" : "Stella del Mandarina-ST83"
+        },
+        "price" : 3960,
+        "description" : {
+            "opis" : "Mus od bele Callebaut čokolade, mus od pistaća, žele od malina, mekana i sočna kora od vanile.",
+            "alergeni" : "jaja, gluten, laktoza, orašasti plodovi, bobičasto voće.",
+            "porcije" : "5-9 parčića",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 11,
+        "name" : "Stella del Mandarina-ST75",
+        "catID" : [2],
+        "img" : {
+            "src" : "assets/img/torte/torta4.jpg",
+            "alt" : "Stella del Mandarina-ST75"
+        },
+        "price" : 2970,
+        "description" : {
+            "opis" : "Mus od bele Callebaut čokolade, mus od pistaća, žele od malina, mekana i sočna kora od vanile.",
+            "alergeni" : "jaja, gluten, laktoza, orašasti plodovi, bobičasto voće.",
+            "porcije" : "5-7 parčića",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 12,
+        "name" : "Full Moon-FM07",
+        "catID" : [2],
+        "img" : {
+            "src" : "assets/img/torte/torta5.jpg",
+            "alt" : "Full Moon-FM07"
+        },
+        "price" : 3630,
+        "description" : {
+            "opis" : "Vazdušasto lisnato testo sa laganim kremom od vanile i jagodama.",
+            "alergeni" : "gluten, laktoza, jagode, jaja, želatin.",
+            "porcije" : "5-9 parčića",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 3 dana od isporuke."
+        }
+    },
+    {
+        "id" : 13,
+        "name" : "Hakuna Matata-HM07",
+        "catID" : [2],
+        "img" : {
+            "src" : "assets/img/torte/torta6.jpg",
+            "alt" : "Hakuna Matata-HM07"
+        },
+        "price" : 3630,
+        "description" : {
+            "opis" : "Mus od đanduje, egzotični kompot od marakuje, manga, banane i limete. Maskarpone-tonka genaž sa hrskavim krančom od karamele i laganom korom od lešnika",
+            "alergeni" : "orašasti plodovi, egzotično voće, laktoza, gluten.",
+            "porcije" : "7-9 parčića",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 14,
+        "name" : "Gotham twist-GT72",
+        "catID" : [2],
+        "img" : {
+            "src" : "assets/img/torte/torta7.jpg",
+            "alt" : "Gotham twist-GT72"
+        },
+        "price" : 5490,
+        "description" : {
+            "opis" : "Mus od crne Callebaut čokolade sa 70% kakaoa, mlečna čokolada sa pečenim lešnikom i hrskavim biskvitom, mekana kora od badema.",
+            "alergeni" : "orašasti plodovi, jaja, gluten, laktoza.",
+            "porcije" : "12-16 parčića",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 15,
+        "name" : "Choco mrvica",
+        "catID" : [3],
+        "img" : {
+            "src" : "assets/img/krofne/krofna1.png",
+            "alt" : "Choco mrvica"
+        },
+        "price" : 190,
+        "description" : {
+            "opis" : "Krckavi ukus čokolade i oreo keksa. Za dobar ukus nugat fil, za još bolji prelivena nutela i čoko testo koje ovu krofnu čini pravom čokoladnom bombom.",
+            "alergeni" : "brašno, jaja, čoko preliv, oreo keks.",
+            "porcije" : "za 1 osobu",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 16,
+        "name" : "Slatkoteka 7",
+        "catID" : [3],
+        "img" : {
+            "src" : "assets/img/krofne/krofna2.png",
+            "alt" : "Slatkoteka 7"
+        },
+        "price" : 220,
+        "description" : {
+            "opis" : "Ljubitelji lešnika ovo je vaša krofna. Mlečnu čokoladu čvrsto drži ručno seckani lešnik, a čoko jaje krije dva ukusa –  lešnik (noisette) krem i krckavi čokoladni fil sa lešnikom.. Ništa od ovoga ne bi bilo, da glavnu ulogu nije odigrala rošer kuglica, koja je inspiracija za ukusnu Slatkoteka 7.",
+            "alergeni" : "brašno, jaja, lešnik, ferrero kuglice.",
+            "porcije" : "za 1 osobu",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 17,
+        "name" : "Laver",
+        "catID" : [3],
+        "img" : {
+            "src" : "assets/img/krofne/krofna3.png",
+            "alt" : "Laver"
+        },
+        "price" : 190,
+        "description" : {
+            "opis" : "Svaki mesec je mesec ljubavi za Laver krofnu. Duplo punjenje nugat fila i mlečna čokolada je pun pogodak za sve ljubitelje čokolade. Laver voli Laverku, najsrećniji su zajedno. Da li si za jedan griz?",
+            "alergeni" : "brašno, jaja, čokoladni preliv.",
+            "porcije" : "za 1 osobu",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 18,
+        "name" : "Slatkoteka 2",
+        "catID" : [3],
+        "img" : {
+            "src" : "assets/img/krofne/krofna4.png",
+            "alt" : "Slatkoteka 2"
+        },
+        "price" : 220,
+        "description" : {
+            "opis" : "Vazdušasto testo smo prelili finom belom čokoladom. U središte najfinijeg zalogaja smestili smo kinder jaje ispunjeno kremastim kinder filom i dodali sočnu jagodu prošaranu mlečnom čokoladom kako bismo zaokružili priču. Na kraju smo naše malo remek delo uokvirili mlevenom plazmom i smestili ga u vitrinu, učinivši proleće u Slatkoteci još slađim.",
+            "alergeni" : "brašno, jaja, beli čoko preliv, jagoda.",
+            "porcije" : "za 1 osobu",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 19,
+        "name" : "Mamma Mia",
+        "catID" : [3],
+        "img" : {
+            "src" : "assets/img/krofne/krofna5.png",
+            "alt" : "Mamma Mia"
+        },
+        "price" : 180,
+        "description" : {
+            "opis" : "Bela čokolada posuta mlevenim pistaćima u kombinaciji sa sočnim kinder filom i osvežavajućom malinom upotpunila je Slatkotekino leto. Isprobajte Mamma Mia krofnu i počastite svoje nepce ukusom savršenstva.",
+            "alergeni" : "brašno, jaja, maline, šumsko voće preliv",
+            "porcije" : "za 1 osobu",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 20,
+        "name" : "Truffle",
+        "catID" : [3],
+        "img" : {
+            "src" : "assets/img/krofne/krofna6.png",
+            "alt" : "Truffle"
+        },
+        "price" : 220,
+        "description" : {
+            "opis" : "Fin ukus čokolade i slatke pavlake izdvajaju ovu krofnu od svih ostalih. Nežna tekstura Truffle čokolade sa malinama i čoko testom za prave hedoniste.",
+            "alergeni" : "brašno, jaja, kakao, mailne.",
+            "porcije" : "za 1 osobu",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    },
+    {
+        "id" : 21,
+        "name" : "Double trouble",
+        "catID" : [3],
+        "img" : {
+            "src" : "assets/img/krofne/krofna7.png",
+            "alt" : "Double trouble"
+        },
+        "price" : 170,
+        "description" : {
+            "opis" : "Ovoj nevolji nećete moći da odolite! Kako vam zvuči krofna sa belim kinder filom, nugat kremom, mlečnom čokolada i kit-kat-om? Sjajno zar ne?",
+            "alergeni" : "brašno, jaja, kinder čokolada, beli i običan čoko preliv.",
+            "porcije" : "za 1 osobu",
+            "ostalo" : "Čuvati u rashladnom uređaju na temperaturi od 5°C. Rok upotrebe je utisnut na poleđini postolja ili 4 dana od isporuke."
+        }
+    }
+]
